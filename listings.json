@@ -1,0 +1,23 @@
+{
+  "listings": [
+    {
+      "name": "Beautiful Stratford Condo",
+      "type": "rent",
+      "userRef": "ID OF A USER",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parking": true,
+      "furnished": true,
+      "offer": true,
+      "regularPrice": 2500,
+      "discountedPrice": 2000,
+      "location": "Tangier , Sidi Driss",
+      "geolocation": {
+        "lat": "41.205590",
+        "lng": "-73.150530"
+      },
+      "imageUrls": [],
+      "timestamp": "00:00:00"
+    }
+  ]
+}
